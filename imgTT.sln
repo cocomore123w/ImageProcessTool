@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imgTT", "imgTT\imgTT.csproj", "{6EA0C7DC-AC5E-424C-951E-C50269472FD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA0C7DC-AC5E-424C-951E-C50269472FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA0C7DC-AC5E-424C-951E-C50269472FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA0C7DC-AC5E-424C-951E-C50269472FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA0C7DC-AC5E-424C-951E-C50269472FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C622F2-1E89-4886-B34D-39E94CED5135}
+	EndGlobalSection
+EndGlobal
